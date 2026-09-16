@@ -24,8 +24,5 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/rupp.my.id" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ndesooo__/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zidniruf&show_icons=true&locale=en" alt="zidniruf" /></p>
+<p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ndesooo__/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidniruf&" alt="zidniruf" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidniruf&show_icons=true&locale=en&layout=compact" alt="zidniruf" /></p>
